@@ -1,5 +1,5 @@
 # Conversor FLAC - OPUS
-Um pequeno script que converte áudio FLAC para Opus e reorganiza os diretórios.
+Um conversor de áudio FLAC para Opus. Também reorganiza os diretórios.
 
 ## Uso
 Clone o repositório, dê permissão de execução e então, execute.
